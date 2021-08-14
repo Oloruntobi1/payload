@@ -10,6 +10,6 @@ type WalletPayoutResponse struct {
 
 // git commit -a -m "my new version"
 // git push
-// git tag v0.1.1
-// git push -q origin v0.1.1
+// git tag v0.1.2
+// git push -q origin v0.1.2
 
