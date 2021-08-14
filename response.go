@@ -5,11 +5,11 @@ type Response struct {
 }
 
 type WalletPayoutResponse struct {
-	Balance int `json:"id" example:"1"`
+	Balance int `json:"balance" example:"1"`
 }
 
 // git commit -a -m "my new version"
 // git push
-// git tag v0.1.2
-// git push -q origin v0.1.2
+// git tag v0.1.3
+// git push -q origin v0.1.3
 
